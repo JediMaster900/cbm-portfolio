@@ -17,7 +17,7 @@ export default function ProjectsSection() {
 					</div>
 					<div key="Glave" className="bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-700 relative">
-							<Image src={`/glave2.jpg`} alt={`Project Glave`} fill className="object-cover" />
+							<Image src={`/glave.jpg`} alt={`Project Glave`} fill className="object-cover" />
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Glave</h3>
@@ -40,7 +40,7 @@ export default function ProjectsSection() {
 					</div>
 					<div key="Bitter" className="bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
 						<div className="aspect-video bg-gray-700 relative">
-							<Image src={`/bitter2.jpg`} alt={`Project Bitter`} fill className="object-cover" />
+							<Image src={`/bitter.jpg`} alt={`Project Bitter`} fill className="object-cover" />
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Bitter</h3>
