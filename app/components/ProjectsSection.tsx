@@ -12,7 +12,7 @@ export default function ProjectsSection() {
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Looking For Group</h3>
-							<p className="text-sm sm:text-base text-gray-300 mb-4">A website that allows students to post projects they want to make and find others with the right skillsets. Created using React and MySQL. </p>
+							<p className="text-sm sm:text-base text-gray-300 mb-4">A website that allows students to post projects they want to make and find others with the right skillsets. Created using React, TypeScript and MySQL. I implemented login sessions using the Node.js middleware Express-Session, which uses tokens stored in user's cookies and verified by the server.</p>
 						</div>
 					</div>
 					<div key="Glave" className="bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
@@ -21,7 +21,7 @@ export default function ProjectsSection() {
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Glave</h3>
-							<p className="text-sm sm:text-base text-gray-300 mb-4">A site where high school seniors set program goals, make student log entries, track progress, notify mentors, and build a public portfolio. It was created with Python, the Flaskini framework, and PostgreSQL.</p>
+							<p className="text-sm sm:text-base text-gray-300 mb-4">A site where high school seniors set program goals, make student log entries, track progress, notify mentors, and build a public portfolio. Created with Python, the Flaskini framework, and PostgreSQL.</p>
 							<div className="flex gap-2">
 								<a target="_blank" rel="noopener noreferrer" href="https://glave.io/" className="text-blue-400 hover:text-blue-300 font-medium text-sm sm:text-base">
 									View Site →
@@ -35,7 +35,7 @@ export default function ProjectsSection() {
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Sparky</h3>
-							<p className="text-sm sm:text-base text-gray-300 mb-4">A website that allows students to post projects they want to make and find others with the right skillsets. Created using React and MySQL. </p>
+							<p className="text-sm sm:text-base text-gray-300 mb-4">The front-end of a website built to manage the operation of solar panels. Created with React and the Volt Dashboard. </p>
 						</div>
 					</div>
 					<div key="Bitter" className="bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
@@ -44,7 +44,7 @@ export default function ProjectsSection() {
 						</div>
 						<div className="p-4 sm:p-6">
 							<h3 className="text-base sm:text-lg font-semibold text-white mb-2">Bitter</h3>
-							<p className="text-sm sm:text-base text-gray-300 mb-4">A Twitter clone created using React, MongoDB, and Mongoose. An exercise of backend skills.</p>
+							<p className="text-sm sm:text-base text-gray-300 mb-4">A Twitter clone created using React for the base site, MongoDB to store user data, and Mongoose models for the server to interface with the data.</p>
 						</div>
 					</div>
 				</div>
